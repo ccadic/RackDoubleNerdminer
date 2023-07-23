@@ -5,5 +5,5 @@ Source files for the 2U Rack mount system holding up tp 15 nerdminers T Display 
 
 ![alt text](https://github.com/ccadic/RackDoubleNerdminer/blob/main/pictures/doubleracksolid4.JPG)
 
-
+![alt text](https://github.com/ccadic/RackDoubleNerdminer/blob/main/pictures/doubleracksolid5.JPG)
 
