@@ -17,7 +17,7 @@ You get the GerberFiles in the rerp: /gerber
 STEP 2: 3D printing
 You get the 3D printable spacers and handles in /stl
 You get the DXF file for lasercutting in /lasercut-dxf
-Laser cut params for a K40 40 w CO2 laser: 20% , 10 mm speed 2 passes for black acryloc 2 mm thickness
+Laser cut params for a K40 40 w CO2 laser: 20% , 10 mm speed 2 passes for black acrylic 2 mm thickness
 You need to cut 2 files : on in front of the fans, one at the back.
 
 STEP 3: Get the parts
