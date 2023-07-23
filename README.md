@@ -1,4 +1,4 @@
-# RackDoublenNerdminer V1.1 Prototype
+# RackDouble Nerdminer V1.1 Prototype
 Source files for the 2U Rack mount system holding up tp 15 nerdminers T Display S3.
 This work is coming opensource GPL-3 
 It allows you to host up to 15 small #nerdminer devices in a 19" rack cabinet.
